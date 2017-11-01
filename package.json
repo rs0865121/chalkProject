@@ -1,0 +1,24 @@
+{
+  "name": "jsonintro",
+  "version": "1.0.0",
+  "description": "Json Intro File",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rs0865121/chalkProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rs0865121/chalkProject/issues"
+  },
+  "homepage": "https://github.com/rs0865121/chalkProject#readme"
+}
